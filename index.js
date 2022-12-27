@@ -3,7 +3,7 @@ require('dotenv/config');
 
 const KAKERA_AVISO = 200;
 var lastMessage = "";
-const commands = ["$w", "$m", "$h", "$mx", "$im ucy"];
+const commands = ["$w", "$m", "$h", "$mx", "$ma", "$wa", "$im ucy"];
 var suscriptores = new Map();
 suscriptores.set("247330571687034881", "One Piece");
 

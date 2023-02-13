@@ -1,7 +1,7 @@
 const { Client, GatewayIntentBits } = require('discord.js');
 require('dotenv/config');
 
-const KAKERA_AVISO = 300;
+const KAKERA_AVISO = 299;
 var lastMessage = "";
 const commands = ["$w", "$m", "$h", "$mx", "$ma", "$wa", "$im ucy", "$im bell", "$im aka", "$im bido", "$im asta", "$im irys"];
 var suscriptores = new Map();
